@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejtDY3fF725ESRSZMP/BCB3VoPMMhFF1YInpXH4Iv3U5AJjOuNsZruhpWaWiuwGkFhlPB9RRw+lYrFndl9BLww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Biankovsky\\Documents\\# Projetos de Programação #\\Projetos C#\\Poker\\ERP\\ControleFinanceiro\\ControleFinanceiro\\ControleFinanceiro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Biankovsky\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
